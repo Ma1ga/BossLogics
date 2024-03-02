@@ -1,0 +1,17 @@
+html {
+    font-size: 1px;
+}
+.flex {
+    display: flex;
+}
+.more ul {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 45px;
+    margin-top: -20px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #fefefe;
+    font-family: "Geometria";
+}
